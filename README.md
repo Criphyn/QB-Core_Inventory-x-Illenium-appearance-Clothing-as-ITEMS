@@ -49,3 +49,7 @@ Illenium-appearance : 5.6.1
 core_inventory : 1.4.3
 CUTOM SCRIPT MADED
 BY CRIPHYN 
+
+CREDITS : 
+core_inventory https://www.c8re.store/package/5121548
+illenium-appearance :https://github.com/iLLeniumStudios/illenium-appearance/tree/main
